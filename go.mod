@@ -1,4 +1,4 @@
-module github.com/prometheus/client_golang
+module github.com/Mintegral-official/prometheus_client_golang
 
 require (
 	github.com/beorn7/perks v1.0.1
